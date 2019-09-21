@@ -1,0 +1,4 @@
+yerson,cordova,13,yonil@unas,yonil,98765321,12,C:\Users\rojas\Documents\NetBeansProjects\Proyecto en ejecucion\x.jpg,C:\Users\rojas\Documents\NetBeansProjects\Proyecto en ejecucion\click96.png
+lucho,angel,13,yonil@ii,yonil,998765431,43,C:\Users\rojas\Documents\NetBeansProjects\Proyecto en ejecucion\clic72.png,C:\Users\rojas\Documents\NetBeansProjects\Proyecto en ejecucion\12.png
+luis,machaca,12,yerson@unas,aquiles,998765432,32,Hombre,C:\Users\rojas\Documents\NetBeansProjects\Proyecto en ejecucion\f.jpg
+cristian,masgor,12,ario@unas,12345678,987654321,33,Hombre,C:\Users\rojas\Documents\NetBeansProjects\Proyecto en ejecucion\e.jpg
