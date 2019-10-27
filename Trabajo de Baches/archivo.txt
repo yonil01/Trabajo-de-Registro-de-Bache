@@ -1,0 +1,2 @@
+21,Reparado,12,732
+33,Temporal,3,687
